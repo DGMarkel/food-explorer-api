@@ -1,11 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+ This will be the server for two clients: food-explorer-blog and food-explorer-cms.  The first will be a public-facing site; the second will be for admin and contributors to CRUD posts and moderate public comments (if that's something I decide to allow).
 
 Things you may want to cover:
 
-* Ruby version
+* Developed using ruby 2.6.1p33
 
 * System dependencies
 
