@@ -19,3 +19,8 @@ Title: string
 
 Tags
 	Name: string
+
+12/11/19
+
+Add post and tag resources.  Thinking about how to build associations between resources. So far, associations are thus:
+Users have many posts.  Posts have many tags.  Tags belong to posts.  Users have many tags through posts.
